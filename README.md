@@ -1,5 +1,5 @@
-- Hi, I'm A.S.F. RABBY PATHAN
-A passionate SQA Engineer from Bangladesh
+- 👋 Hi, I'm A.S.F. RABBY PATHAN
+  - A passionate SQA Engineer from Bangladesh
 
 - 🔭 I’m currently working on **Cypress**
 
