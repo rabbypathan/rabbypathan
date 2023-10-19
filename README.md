@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm A.S.F. RABBY PATHAN</h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+- Hi, I'm A.S.F. RABBY PATHAN
+A passionate SQA Engineer from Bangladesh
 
 - 🔭 I’m currently working on **Cypress**
 
