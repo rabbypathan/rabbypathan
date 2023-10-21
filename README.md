@@ -1,7 +1,7 @@
 - 👋 Hi, I'm A.S.F. RABBY PATHAN
   - A passionate SQA Engineer from Bangladesh
 
-- 🔭 I’m currently working on **Cypress**
+- 🔭 I’m currently working on **Rest Assured**
 
 - 🌱 I’m currently learning **Test Automation**
 
